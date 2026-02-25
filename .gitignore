@@ -1,0 +1,26 @@
+# Common files to ignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.class
+*.jar
+*.war
+*.ear
+.idea/
+.vscode/
+# Node.js
+node_modules/
+# Python
+__pycache__/
+*.py[cod]
+.env
+# Java
+*.class
+# Ruby
+*.gem
+# Yarn
+.yarn/
